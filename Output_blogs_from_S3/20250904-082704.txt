@@ -1,0 +1,33 @@
+<reasoning>We need to write a 200-word blog on the topic "India's new GST slabs in 2025". Should be about 200 words. Should be blog style. Should mention new GST slabs, changes, implications, maybe sectors, consumer impact, business impact, etc. Should be engaging. 200 words exactly? The prompt says "Write a 200 words blog". Usually means around 200 words, maybe exactly 200. Let's aim for exactly 200 words. Let's count. We'll write and count. Let's draft:
+
+"India’s new GST slabs in 2025: What you need to know"
+
+Paragraph 1: introduction.
+
+Paragraph 2: new slab structure.
+
+Paragraph 3: impact on consumers.
+
+Paragraph 4: impact on businesses.
+
+Paragraph 5: conclusion.
+
+Let's write 200 words exactly. We'll count words. We'll count manually.
+
+Draft:
+
+"India’s new GST slabs in 2025: What you need to know
+
+The Union Budget 2025 introduces a revised GST framework aimed at simplifying tax rates while boosting economic growth. The new structure consolidates seven existing slabs into five key categories: 0%, 5%, 12%, 18%, and 28%. Essential items such as fresh produce, milk, and essential medicines remain exempt, while luxury goods and high‑end electronics move into the 28% bracket.
+
+For consumers, the shift means lower rates on everyday goods, potentially reducing the cost of groceries and household items. However, the 28% slab will increase the price of premium automobiles, electronics, and imported luxury goods, reflecting the government’s focus on revenue generation from high‑margin sectors.
+
+Businesses face mixed outcomes. Small and medium enterprises (SMEs) benefit from reduced compliance complexity and lower tax rates on inputs, while large corporations dealing with high‑value goods may see higher tax liabilities. The new structure also encourages digital invoicing and real‑time reporting, tightening the tax base.
+
+Overall, the 2025 GST overhaul seeks to balance affordability for the masses with revenue needs of the state. Stakeholders should review their product portfolios and adjust pricing strategies accordingly to stay compliant and competitive."
+
+Now count words. Let's count manually.
+
+"India’s(1) new(2) GST(3) slabs(4) in(5) 2025:(6) What(7) you(8) need(9) to(10) know(11)
+
+The(12) Union(13) Budget(14) 2025(15) introduces(16</reasoning>

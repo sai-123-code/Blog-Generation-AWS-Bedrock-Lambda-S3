@@ -1,0 +1,18 @@
+<reasoning>We need to write a 200-word blog on Paris 2024 Olympics. Should be around 200 words. Let's aim for 200 words exactly or close. We'll write about the excitement, venues, sustainability, athletes, cultural aspects, etc. Should be blog style. Let's produce about 200 words. We'll count approximate. Let's aim for 200 words. We'll write in a friendly tone. We'll include some details: dates, venues, new sports, sustainability, legacy, etc. We'll keep it engaging. We'll produce about 200 words. Let's count: We'll write about 200 words. Let's draft and count.
+
+Draft:
+
+"Paris 2024: The City of Light Goes Global
+
+As the world’s eyes turn to the French capital, Paris 2024 promises to be more than just a sporting spectacle—it’s a celebration of culture, innovation, and sustainability. Set to open on July 26 and close on August 11, the Games will feature 32 sports and 10 new disciplines, from surfing and skateboarding to sport climbing, reflecting the Olympic movement’s commitment to youth and diversity.
+
+Venues will blend historic landmarks with cutting‑edge design. The iconic Stade de France will host the opening ceremony, while the Seine’s banks will become a dynamic hub for water sports and the marathon. The new Paris Aquatics Centre, built on the site of the former Paris Expo, will showcase state‑of‑the‑art facilities that meet the highest environmental standards.
+
+Sustainability is at the heart of the Games. Paris 2024 has pledged to be carbon‑neutral, using renewable energy, zero‑waste policies, and a “green” transport network that encourages cycling and public transit. The legacy plan aims to leave a lasting impact on the city’s infrastructure and local communities, turning temporary venues into community hubs.
+
+Beyond the medals, Paris 2024 is a platform for global dialogue, showcasing French art, cuisine, and the vibrant spirit of its citizens. Whether you’re cheering from the stadium or exploring the city’s cafés, the 2024 Games invite everyone to experience the magic of the Olympics in the City of Light."
+
+Count words. Let's count quickly: 
+Paris(1) 2024:(2) The(3) City(4) of(5) Light(6) Goes(7) Global(8)
+
+As(9) the(10) world’s(11) eyes(12) turn(13) to(14) the(15) French(16) capital,(</reasoning>
